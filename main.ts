@@ -1,7 +1,7 @@
 /*
  * Created by: Joos
  * Created on: Oct 2024
- * This program Rotates through rgb leds
+ * This program Rotates through rgb led colours
 */
 
 basic.showIcon(IconNames.Happy)
